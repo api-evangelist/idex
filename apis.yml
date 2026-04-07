@@ -1,7 +1,12 @@
 aid: idex
-url: https://raw.githubusercontent.com/api-evangelist/idex/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/idex/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.idex.com
+description: >-
+  IDEX Corporation is a maker of pumps, flow meters, valves, and other fluidics systems
+  and components for various industries including health, science, water, and industrial
+  markets.
