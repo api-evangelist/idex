@@ -26,6 +26,10 @@ url: https://raw.githubusercontent.com/api-evangelist/idex/refs/heads/main/apis.
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: GitHubOrganization
+    url: https://github.com/idex-corp
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/idex-corporation
   - type: Website
     url: https://www.idexcorp.com/
   - type: About
