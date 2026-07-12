@@ -27,6 +27,8 @@ url: https://raw.githubusercontent.com/api-evangelist/idex/refs/heads/main/apis.
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/idex-domain-security.yml
   - type: GitHubOrganization
     url: https://github.com/idex-corp
   - type: LinkedIn
@@ -39,6 +41,8 @@ common:
     url: https://investors.idexcorp.com/
   - type: Careers
     url: https://www.idexcorp.com/careers/
+  - url: https://idexcorp.com/feed/
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
