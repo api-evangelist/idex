@@ -1,7 +1,9 @@
 ---
 title: 'On the sidelines of #CDD, Shri Rajnath Singh, Hon''ble ...'
 url: https://www.facebook.com/Indianarmy.adgpi/posts/on-the-sidelines-of-cdd-shri-rajnath-singh-honble-raksha-mantri-released-digital/1149576627345881/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"IDEX" press release artificial intelligence'
 position: 5
 source: serpapi-google

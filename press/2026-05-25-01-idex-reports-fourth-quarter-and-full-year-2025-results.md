@@ -1,7 +1,9 @@
 ---
 title: IDEX Reports Fourth Quarter and Full Year 2025 Results
 url: https://investors.idexcorp.com/news/news-details/2026/IDEX-Reports-Fourth-Quarter-and-Full-Year-2025-Results/default.aspx
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"IDEX" press release artificial intelligence'
 position: 1
 source: serpapi-google

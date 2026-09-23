@@ -1,7 +1,9 @@
 ---
 title: Financials - Quarterly Results - IDEX Corp. - Investor Relations
 url: https://investors.idexcorp.com/financials/quarterly-results/default.aspx
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"IDEX" press release artificial intelligence'
 position: 2
 source: serpapi-google

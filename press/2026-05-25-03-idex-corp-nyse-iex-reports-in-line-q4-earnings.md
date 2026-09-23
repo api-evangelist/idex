@@ -1,7 +1,9 @@
 ---
 title: IDEX Corp (NYSE:IEX) Reports In-Line Q4 Earnings ...
 url: https://www.chartmill.com/news/IEX/Chartmill-41103-IDEX-Corp-NYSEIEX-Reports-In-Line-Q4-Earnings-Highlights-AI-Driven-Order-Growth-Amid-Mixed-Segment-Demand
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"IDEX" press release artificial intelligence'
 position: 3
 source: serpapi-google
