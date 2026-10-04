@@ -1,5 +1,5 @@
 aid: idex
-name: IDEX Corporation
+name: IDEX
 description: >-
   IDEX Corporation (NYSE: IEX) is a global engineered products company that
   designs and manufactures pumps, flow meters, valves, fluidics systems,
@@ -68,3 +68,4 @@ common:
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
+x-legal-name: IDEX Corporation
